@@ -1,0 +1,122 @@
+2024-10-14T02:00:23+00:00 CRITICAL Uncaught TypeError: property_exists(): Argument #1 ($object_or_class) must be of type object|string, null given in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php:183
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php(183): property_exists(NULL, 'ID')
+#1 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(326): WurReview\App\Cpt->wur_meta_box_init('woocommerce_pag...')
+#2 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\Edit.php(165): do_action('add_meta_boxes', 'woocommerce_pag...', Object(WC_Order))
+#5 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\PageController.php(350): Automattic\WooCommerce\Internal\Admin\Orders\Edit->setup(Object(WC_Order))
+#6 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\PageController.php(398): Automattic\WooCommerce\Internal\Admin\Orders\PageController->prepare_order_edit_form()
+#7 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\PageController.php(167): Automattic\WooCommerce\Internal\Admin\Orders\PageController->setup_action_new_order()
+#8 [internal function]: Automattic\WooCommerce\Internal\Admin\Orders\PageController->handle_load_page_action('')
+#9 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php(158): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): Automattic\WooCommerce\Internal\Admin\Orders\PageController->__call('handle_load_pag...', Array)
+#11 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\doudou\wp-admin\admin.php(237): do_action('load-woocommerc...')
+#14 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php on line 183
+
+2024-10-14T12:14:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\doudou\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2024-10-14T12:30:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\doudou\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2024-10-14T12:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\doudou\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2024-10-14T13:02:30+00:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\xampp\htdocs\doudou\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
+
+2024-10-14T13:03:24+00:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\xampp\htdocs\doudou\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
+
+2024-10-14T21:03:12+00:00 CRITICAL Uncaught Error: Call to a member function get_default_args() on array in C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\managers\elements.php:83
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(199): Elementor\Elements_Manager->create_element_instance(Array)
+#1 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#2 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#3 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#6 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(84)
+#7 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\base\document.php(1366): Elementor\DB->save_plain_text(84)
+#8 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\base\document.php(856): Elementor\Core\Base\Document->save_elements(Array)
+#9 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\documents-manager.php(549): Elementor\Core\Base\Document->save(Array)
+#10 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#12 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#13 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#15 C:\xampp\htdocs\doudou\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#16 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\managers\elements.php on line 83
+
+2024-10-14T21:03:21+00:00 CRITICAL Uncaught Error: Call to a member function get_default_args() on array in C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\managers\elements.php:83
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(199): Elementor\Elements_Manager->create_element_instance(Array)
+#1 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#2 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#3 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->render_element_plain_content(Array)
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(558): Elementor\DB->render_element_plain_content(Array)
+#5 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(539): Elementor\DB->get_plain_text_from_data(Array)
+#6 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\db.php(230): Elementor\DB->get_plain_text(84)
+#7 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\base\document.php(1366): Elementor\DB->save_plain_text(84)
+#8 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\base\document.php(856): Elementor\Core\Base\Document->save_elements(Array)
+#9 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\documents-manager.php(549): Elementor\Core\Base\Document->save(Array)
+#10 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 C:\xampp\htdocs\doudou\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#12 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#13 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#15 C:\xampp\htdocs\doudou\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#16 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\elementor\includes\managers\elements.php on line 83
+
+2024-10-15T04:59:08+00:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\xampp\htdocs\doudou\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
+
+2024-10-18T03:30:06+00:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\xampp\htdocs\doudou\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
+
+2024-10-18T03:32:00+00:00 CRITICAL Trait "Automattic\WooCommerce\Admin\Notes\NoteTraits" not found in C:\xampp\htdocs\doudou\wp-content\plugins\pinterest-for-woocommerce\src\Notes\TokenExchangeFailure.php on line 21
+
+2024-10-18T23:41:53+00:00 CRITICAL Uncaught TypeError: property_exists(): Argument #1 ($object_or_class) must be of type object|string, null given in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php:183
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php(183): property_exists(NULL, 'ID')
+#1 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(326): WurReview\App\Cpt->wur_meta_box_init('toplevel_page_i...')
+#2 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\ibtana-visual-editor\admin-menu.php(1801): do_action('add_meta_boxes', 'toplevel_page_i...', 0)
+#5 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): Ibtana_Visual_Editor_Menu_Creator->ibtana_visual_editor_settings_page_add_meta_boxes('')
+#6 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\doudou\wp-admin\admin.php(237): do_action('load-toplevel_p...')
+#9 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php on line 183
+
+2024-10-19T02:03:19+00:00 CRITICAL Uncaught TypeError: property_exists(): Argument #1 ($object_or_class) must be of type object|string, null given in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php:183
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php(183): property_exists(NULL, 'ID')
+#1 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(326): WurReview\App\Cpt->wur_meta_box_init('toplevel_page_i...')
+#2 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\ibtana-visual-editor\admin-menu.php(1801): do_action('add_meta_boxes', 'toplevel_page_i...', 0)
+#5 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): Ibtana_Visual_Editor_Menu_Creator->ibtana_visual_editor_settings_page_add_meta_boxes('')
+#6 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\doudou\wp-admin\admin.php(237): do_action('load-toplevel_p...')
+#9 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\wp-ultimate-review\app\cpt.php on line 183
+
+2024-10-19T04:13:23+00:00 CRITICAL Uncaught TypeError: voku\helper\HtmlDomParser::loadHtml(): Argument #1 ($html) must be of type string, bool given, called in C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 230 and defined in C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php:871
+Stack trace:
+#0 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php(230): voku\helper\HtmlDomParser->loadHtml(false, NULL)
+#1 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(345): voku\helper\HtmlDomParser::__callStatic('str_get_html', Array)
+#2 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\src\class-ss-url-extractor.php(182): Simply_Static\Url_Extractor->extract_and_replace_urls_in_html()
+#3 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(155): Simply_Static\Url_Extractor->extract_and_update_urls()
+#4 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\src\tasks\class-ss-fetch-urls-task.php(122): Simply_Static\Fetch_Urls_Task->handle_200_response(Object(Simply_Static\Page), true, true)
+#5 C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\src\class-ss-archive-creation-job.php(154): Simply_Static\Fetch_Urls_Task->perform()
+#6 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#7 C:\xampp\htdocs\doudou\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(175): WP_Background_Process->handle()
+#8 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(324): WP_Background_Process->maybe_handle('')
+#9 C:\xampp\htdocs\doudou\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\doudou\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\doudou\wp-admin\admin-ajax.php(192): do_action('wp_ajax_wp_arch...')
+#12 {main}
+  thrown in C:\xampp\htdocs\doudou\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\HtmlDomParser.php on line 871
+

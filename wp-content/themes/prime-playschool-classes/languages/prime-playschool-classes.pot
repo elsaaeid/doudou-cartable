@@ -1,0 +1,883 @@
+# Copyright (C) 2024 themeignite
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Playschool Classes 3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/prime-playschool-classes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-30T12:16:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: prime-playschool-classes\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Prime Playschool Classes"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/products/free-playschool-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Prime Playschool Classes is a comprehensive and visually appealing WordPress theme designed specifically for playschools, daycare centers, playschool,playschool education,playschool, activities,playschool curriculum,playschool near me,playschool admission,playschool fees,playschool programs,best playschool,playschool teacher,playschool learning,playschool fun activities,early childhood education,preschool learning,preschool education,child development,kindergarten preparation,play-based learning,playschool environment,playschool safety,playschool facilities,playschool classroom,playschool early intervention,playschool gifted programs,playschool bilingual education,playschool Montessori method,playschool Reggio Emilia approach,playschool Waldorf education,playschool learning styles,playschool individual learning,playschool collaborative learning,playschool teamwork,playschool leadership skills,playschool self-esteem,playschool independence,playschool discipline,playschool rules,playschool boundaries,playschool conflict resolution,playschool peer mediation,playschool bullying prevention,playschool emotional intelligence,playschool mindfulness,playschool relaxation techniques,playschool yoga,playschool meditation,playschool safety drills,playschool fire drills,playschool emergency procedures,playschool safety standards,playschool accreditation,playschool reviews,playschool ratings,playschool scholarships,playschool tuition assistance,playschool best practices,playschool educational resources,playschool teaching methods,playschool staff training,playschool teacher qualifications,playschool child care,playschool day care,playschool before and after care and early education institutions. The theme can be used to create a stunning online presence and attract potential people to your website. With its vibrant design elements and feature-rich functionality, this theme provides an ideal platform to create an engaging and informative website for promoting and managing playschool classes. Prime Playschool Classes theme radiates a playful and cheerful atmosphere, perfectly suited for the target audience of young children and their parents. It incorporates bright colors, playful fonts, and attractive graphics that capture the essence of a nurturing and educational environment. The theme’s layouts and elements are designed to be visually appealing and easy to navigate, ensuring a positive user experience for parents and caregivers. The theme provides dedicated sections to highlight different classes, such as nursery, kindergarten, daycare, playgroup, kids store, preschool, and various age-specific programs. These sections allow playschools to provide detailed information about each class, including curriculum, activities, timings, and faculty, helping parents make informed decisions about enrolling their children. Furthermore, the Prime Playschool Classes theme includes features to enhance parent engagement and communication. It offers dedicated sections for sharing newsletters, event calendars, and photo galleries, allowing playschools to keep parents informed about upcoming events, achievements, and activities. The theme also provides contact forms and contact information sections to facilitate communication between playschools and parents."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "themeignite"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themeignite.com"
+msgstr ""
+
+#: 404.php:21
+#: inc/customizer.php:965
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+#: inc/customizer.php:978
+msgid "Sorry, that page can't be found!"
+msgstr ""
+
+#: 404.php:25
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:72
+#: sidebar.php:31
+msgid "secondsidebar"
+msgstr ""
+
+#: footer.php:73
+#: sidebar.php:32
+msgid "Archive List"
+msgstr ""
+
+#: footer.php:79
+#: sidebar.php:38
+msgid "thirdsidebar"
+msgstr ""
+
+#: footer.php:80
+#: sidebar.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:97
+#: sidebar.php:56
+msgid "fourthsidebar"
+msgstr ""
+
+#: footer.php:98
+#: sidebar.php:57
+msgid "Categories"
+msgstr ""
+
+#: footer.php:109
+msgid "fifthsidebar"
+msgstr ""
+
+#: footer.php:110
+msgid "Tags"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary"
+msgstr ""
+
+#: functions.php:131
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:273
+#: inc/getting-started/getting-started.php:15
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:64
+msgid "Getting Started"
+msgstr ""
+
+#: functions.php:275
+msgid "Free Documentation"
+msgstr ""
+
+#: header.php:45
+msgid "Mobile"
+msgstr ""
+
+#: header.php:59
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: inc/controls/changeable-icon.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr ""
+
+#: inc/custom-header.php:35
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Show / Hide Site Title"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Show / Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Site Title Font Size (px)"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Show / Hide Post Heading"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Show / Hide Post Meta"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Show / Hide Post Image"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Show / Hide Post Content"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Select"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Select Font for Heading"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Select Font for Body"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Show / Hide Single Post Meta"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "Show / Hide Single Post Content"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Show Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Show / Hide Preloader"
+msgstr ""
+
+#: inc/customizer.php:385
+msgid "Sidebar Text Align"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Show Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:421
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "100 - Thin"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "200 - Extra Light"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "300 - Light"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "400 - Normal"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "500 - Medium"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "600 - Semi Bold"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "700 - Bold"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "800 - Extra Bold"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "900 - Black"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer.php:460
+msgid "Header Section Settings"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Show Header"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Add Location"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Location Icon"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Add Email"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Mail Icon"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Add Phone"
+msgstr ""
+
+#: inc/customizer.php:571
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/customizer.php:582
+msgid "Social Media Section Settings"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Show Social Icon"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Add Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Add Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:657
+msgid "Add Instagram Link"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "Add Pintrest Link"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:691
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Slider Section Settings"
+msgstr ""
+
+#: inc/customizer.php:718
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer.php:748
+msgid "Select Category to display Latest Post"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Classes Section Settings"
+msgstr ""
+
+#: inc/customizer.php:776
+msgid "Show Classes"
+msgstr ""
+
+#: inc/customizer.php:796
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:817
+msgid "Section Text"
+msgstr ""
+
+#: inc/customizer.php:848
+msgid "Select Category to display classes post"
+msgstr ""
+
+#: inc/customizer.php:859
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:876
+msgid "Show Footer Copyright"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/customizer.php:911
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:912
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr ""
+
+#: inc/customizer.php:936
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+#: inc/customizer.php:947
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "404 Page Image"
+msgstr ""
+
+#: inc/customizer.php:972
+#: inc/customizer.php:985
+msgid "Heading"
+msgstr ""
+
+#: inc/extra.php:97
+msgid "&copy; "
+msgstr ""
+
+#: inc/extra.php:97
+msgid "Y"
+msgstr ""
+
+#: inc/extra.php:98
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: inc/extra.php:101
+msgid " By "
+msgstr ""
+
+#: inc/extra.php:101
+msgid "Themeignite"
+msgstr ""
+
+#: inc/extra.php:102
+msgid " Powered By %s"
+msgstr ""
+
+#: inc/extra.php:102
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/extra.php:135
+msgid "Name*"
+msgstr ""
+
+#: inc/extra.php:135
+#: inc/extra.php:139
+msgid "Name"
+msgstr ""
+
+#: inc/extra.php:136
+msgid "Email*"
+msgstr ""
+
+#: inc/extra.php:136
+#: inc/extra.php:141
+msgid "Email"
+msgstr ""
+
+#: inc/extra.php:143
+msgid "Website"
+msgstr ""
+
+#: inc/extra.php:156
+msgid "Comment"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:52
+msgid "You will find everything you need to get started with %1$s below."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:73
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Theme Feature"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:16
+msgid "Basic Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:17
+msgid "Premium Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:23
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Custom Navigation Logo Or Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:33
+msgid "Hide Logo Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:39
+msgid "Premium Support"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:44
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:55
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:60
+msgid "Pagespeed Plugin"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:65
+msgid "Only Show Header Image On Front Page"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Show Header Everywhere"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:75
+msgid "Custom Text On Header Image"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:80
+msgid "Full Width (Hide Sidebar)"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:85
+msgid "Only Show Upper Widgets On Front Page"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:90
+msgid "Replace Copyright Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:95
+msgid "Customize Upper Widgets Colors"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:100
+msgid "Customize Navigation Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:105
+msgid "Customize Post/Page Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:110
+msgid "Customize Blog Feed Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:115
+msgid "Customize Footer Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:120
+msgid "Customize Sidebar Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:125
+msgid "Customize Background Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:130
+msgid "Importable Demo Content\t"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:137
+#: inc/getting-started/tabs/link-panel.php:24
+msgid "View Premium Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:138
+msgid "View Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid " VISIT FREE DOCUMENTATION"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you a newcomer to the WordPress universe? Our comprehensive and user-friendly documentation guide is designed to assist you in effortlessly building a captivating and interactive website, even if you lack any coding expertise or prior experience. Follow our step-by-step instructions to create a visually appealing and engaging online presence."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "FREE DOCUMENTATION"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Review"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "If you are passionate about the Prime Playschool Classes theme, we would love to hear your thoughts and feedback regarding our theme. Your review will be highly valuable to us as we strive to enhance and improve our theme based on the needs and preferences of our users. Your opinion matters, and we sincerely appreciate your time and effort in sharing your experience with the Prime Playschool Classes theme."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "Visit the Review"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "REVIEW"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:28
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "CONTACT SUPPORT"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Thank you for choosing Prime Playschool Classes! We appreciate your interest in our theme and are here to assist you with any support you may need."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Support"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "THEME DEMO"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "GO PRO"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:17
+msgid "PRO DOCUMENTATION "
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:22
+msgid ""
+"The Pro version of our theme offers a seamless website customization experience with its intuitive interface. With just a few clicks, you can effortlessly transform the look and feel of your website. Enjoy the freedom to personalize various elements such as colors, background images, patterns, and fonts, elevating your website s aesthetics and brand identity.In addition, the Pro theme goes beyond the basic features of the free version by providing an expanded selection of homepage sections. This enables you to effectively showcase your organizations services and offerings, empowering the growth of your business or cause. Moreover, the Pro version includes a wide range of professionally designed page templates, giving you a head start in creating impactful web pages with ease.\n"
+"            To ensure a top-notch experience, the Pro version receives regular updates, ensuring compatibility with the latest web technologies and maintaining optimal performance. Additionally, our dedicated support team is readily available to address any questions or concerns you may have, providing timely assistance when you need it most."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:25
+msgid "Read more about the features here"
+msgstr ""
+
+#: inc/info.php:109
+msgid "Playschool Classes PRO"
+msgstr ""
+
+#: inc/info.php:115
+msgid "Lite Documentation"
+msgstr ""
+
+#: inc/info.php:129
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:143
+msgid "For Reference"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:88
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:98
+msgid "Kindergartan Meta Feilds"
+msgstr ""
+
+#: inc/template-tags.php:116
+#: sections/section-featured-classes.php:46
+msgid "Age"
+msgstr ""
+
+#: inc/template-tags.php:124
+#: sections/section-featured-classes.php:53
+msgid "Size"
+msgstr ""
+
+#: inc/template-tags.php:132
+#: sections/section-featured-classes.php:60
+msgid "Price"
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "TI: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:57
+#: inc/widget-social-links.php:103
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget-social-links.php:59
+#: inc/widget-social-links.php:108
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget-social-links.php:61
+#: inc/widget-social-links.php:113
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget-social-links.php:63
+#: inc/widget-social-links.php:118
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget-social-links.php:65
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:67
+#: inc/widget-social-links.php:128
+msgid "YouTube"
+msgstr ""
+
+#: inc/widget-social-links.php:69
+#: inc/widget-social-links.php:133
+msgid "Tiktok"
+msgstr ""
+
+#: inc/widget-social-links.php:98
+msgid "Title"
+msgstr ""
+
+#: inc/widget-social-links.php:123
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/woocommerce-functions.php:45
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:47
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: search.php:19
+msgid "Search Result"
+msgstr ""
+
+#: search.php:22
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: sections/section-featured-banner.php:33
+msgid "Enroll Your Child"
+msgstr ""
+
+#: sections/section-featured-classes.php:69
+#: template-parts/content.php:14
+msgid "Read More"
+msgstr ""
+
+#: sidebar.php:20
+msgid "firstsidebar"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Search for:"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Search..."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:73
+#: template-parts/content-gallery.php:52
+#: template-parts/content-image.php:43
+#: template-parts/content-single.php:35
+#: template-parts/content-video.php:73
+#: template-parts/content.php:51
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-audio.php:80
+#: template-parts/content-gallery.php:59
+#: template-parts/content-image.php:50
+#: template-parts/content-page.php:26
+#: template-parts/content-single.php:42
+#: template-parts/content-video.php:80
+#: template-parts/content.php:58
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
