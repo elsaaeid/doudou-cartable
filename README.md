@@ -46,4 +46,4 @@ We welcome contributions to enhance Doudou Cartable! If you would like to contri
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the <a href="https://github.com/elsaaeid/doudou-cartable/blob/master/license.txt">LICENSE</a> file for more information.
